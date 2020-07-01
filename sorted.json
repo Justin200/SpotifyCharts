@@ -1,1 +1,1279 @@
-"{\n    \"artists\": [\n        {\n            \"url\": \"https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE\", \n            \"monthlylisteners\": 406859, \n            \"artist\": \"Emilee\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4\", \n            \"monthlylisteners\": 1515912, \n            \"artist\": \"Gus Dapperton\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG\", \n            \"monthlylisteners\": 4416564, \n            \"artist\": \"42 Dugg\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg\", \n            \"monthlylisteners\": 7851772, \n            \"artist\": \"DTG\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s\", \n            \"monthlylisteners\": 8240887, \n            \"artist\": \"S1mba\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5\", \n            \"monthlylisteners\": 10073698, \n            \"artist\": \"Quavo\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2\", \n            \"monthlylisteners\": 14560932, \n            \"artist\": \"RAYE\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg\", \n            \"monthlylisteners\": 14662376, \n            \"artist\": \"Jawsh 685\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83\", \n            \"monthlylisteners\": 16418804, \n            \"artist\": \"J. Rey Soul\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8\", \n            \"monthlylisteners\": 17329607, \n            \"artist\": \"Melanie Martinez\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ\", \n            \"monthlylisteners\": 17691955, \n            \"artist\": \"Jack Harlow\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ\", \n            \"monthlylisteners\": 18348415, \n            \"artist\": \"StaySolidRocky\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7\", \n            \"monthlylisteners\": 19126748, \n            \"artist\": \"A7S\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev\", \n            \"monthlylisteners\": 19208724, \n            \"artist\": \"Regard\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg\", \n            \"monthlylisteners\": 20314448, \n            \"artist\": \"Tory Lanez\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK\", \n            \"monthlylisteners\": 20716944, \n            \"artist\": \"Lil Baby\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF\", \n            \"monthlylisteners\": 20791418, \n            \"artist\": \"BLACKPINK\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ\", \n            \"monthlylisteners\": 20796774, \n            \"artist\": \"Topic\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865\", \n            \"monthlylisteners\": 21346952, \n            \"artist\": \"Lil Wayne\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u\", \n            \"monthlylisteners\": 21781521, \n            \"artist\": \"Surfaces\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4\", \n            \"monthlylisteners\": 24005019, \n            \"artist\": \"BENEE\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ\", \n            \"monthlylisteners\": 25519292, \n            \"artist\": \"Surf Mesa\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK\", \n            \"monthlylisteners\": 28291052, \n            \"artist\": \"Megan Thee Stallion\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn\", \n            \"monthlylisteners\": 28470608, \n            \"artist\": \"Powfu\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB\", \n            \"monthlylisteners\": 29070517, \n            \"artist\": \"beabadoobee\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y\", \n            \"monthlylisteners\": 30088893, \n            \"artist\": \"Jason Derulo\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F\", \n            \"monthlylisteners\": 32005627, \n            \"artist\": \"Ava Max\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB\", \n            \"monthlylisteners\": 32733990, \n            \"artist\": \"Roddy Ricch\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj\", \n            \"monthlylisteners\": 33706306, \n            \"artist\": \"Imanbek\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ\", \n            \"monthlylisteners\": 35355436, \n            \"artist\": \"OneRepublic\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5\", \n            \"monthlylisteners\": 36007127, \n            \"artist\": \"Doja Cat\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3\", \n            \"monthlylisteners\": 36668566, \n            \"artist\": \"Harry Styles\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ\", \n            \"monthlylisteners\": 36863830, \n            \"artist\": \"SAINt JHN\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3\", \n            \"monthlylisteners\": 36889347, \n            \"artist\": \"Harry Styles\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS\", \n            \"monthlylisteners\": 38873001, \n            \"artist\": \"Black Eyed Peas\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4\", \n            \"monthlylisteners\": 39708341, \n            \"artist\": \"Kygo\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY\", \n            \"monthlylisteners\": 40715461, \n            \"artist\": \"Ozuna\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T\", \n            \"monthlylisteners\": 41587965, \n            \"artist\": \"Marshmello\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\", \n            \"monthlylisteners\": 42751236, \n            \"artist\": \"Beyonc\\u00e9\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\", \n            \"monthlylisteners\": 42751236, \n            \"artist\": \"Beyonc\\u00e9\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk\", \n            \"monthlylisteners\": 43204517, \n            \"artist\": \"DaBaby\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk\", \n            \"monthlylisteners\": 43204517, \n            \"artist\": \"DaBaby\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2\", \n            \"monthlylisteners\": 45165511, \n            \"artist\": \"Halsey\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms\", \n            \"monthlylisteners\": 53969857, \n            \"artist\": \"Lady Gaga\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we\", \n            \"monthlylisteners\": 55942332, \n            \"artist\": \"Dua Lipa\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s\", \n            \"monthlylisteners\": 57305393, \n            \"artist\": \"Justin Bieber\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s\", \n            \"monthlylisteners\": 57305393, \n            \"artist\": \"Justin Bieber\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR\", \n            \"monthlylisteners\": 57926281, \n            \"artist\": \"Ariana Grande\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR\", \n            \"monthlylisteners\": 57926281, \n            \"artist\": \"Ariana Grande\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4\", \n            \"monthlylisteners\": 58852234, \n            \"artist\": \"Drake\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ\", \n            \"monthlylisteners\": 60534591, \n            \"artist\": \"The Weeknd\"\n        }, \n        {\n            \"url\": \"https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ\", \n            \"monthlylisteners\": 60534591, \n            \"artist\": \"The Weeknd\"\n        }\n    ]\n}"
+{
+    "artists": [
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 406859, 
+            "artist": "Emilee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 406859, 
+            "artist": "Emilee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 406859, 
+            "artist": "Emilee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 406859, 
+            "artist": "Emilee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 406859, 
+            "artist": "Emilee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1515912, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1515912, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1515912, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1515912, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1515912, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG", 
+            "monthlylisteners": 4416564, 
+            "artist": "42 Dugg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG", 
+            "monthlylisteners": 4416564, 
+            "artist": "42 Dugg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG", 
+            "monthlylisteners": 4416564, 
+            "artist": "42 Dugg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG", 
+            "monthlylisteners": 4416564, 
+            "artist": "42 Dugg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG", 
+            "monthlylisteners": 4416564, 
+            "artist": "42 Dugg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg", 
+            "monthlylisteners": 7851772, 
+            "artist": "DTG"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg", 
+            "monthlylisteners": 7851772, 
+            "artist": "DTG"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg", 
+            "monthlylisteners": 7851772, 
+            "artist": "DTG"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg", 
+            "monthlylisteners": 7851772, 
+            "artist": "DTG"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg", 
+            "monthlylisteners": 7851772, 
+            "artist": "DTG"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s", 
+            "monthlylisteners": 8240887, 
+            "artist": "S1mba"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s", 
+            "monthlylisteners": 8240887, 
+            "artist": "S1mba"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s", 
+            "monthlylisteners": 8240887, 
+            "artist": "S1mba"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s", 
+            "monthlylisteners": 8240887, 
+            "artist": "S1mba"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s", 
+            "monthlylisteners": 8240887, 
+            "artist": "S1mba"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 10073698, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 10073698, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 10073698, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 10073698, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 10073698, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2", 
+            "monthlylisteners": 14560932, 
+            "artist": "RAYE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2", 
+            "monthlylisteners": 14560932, 
+            "artist": "RAYE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2", 
+            "monthlylisteners": 14560932, 
+            "artist": "RAYE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2", 
+            "monthlylisteners": 14560932, 
+            "artist": "RAYE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2", 
+            "monthlylisteners": 14560932, 
+            "artist": "RAYE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 14662376, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 14662376, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 14662376, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 14662376, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 14662376, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 16418804, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 16418804, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 16418804, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 16418804, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 16418804, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8", 
+            "monthlylisteners": 17329607, 
+            "artist": "Melanie Martinez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8", 
+            "monthlylisteners": 17329607, 
+            "artist": "Melanie Martinez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8", 
+            "monthlylisteners": 17329607, 
+            "artist": "Melanie Martinez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8", 
+            "monthlylisteners": 17329607, 
+            "artist": "Melanie Martinez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8", 
+            "monthlylisteners": 17329607, 
+            "artist": "Melanie Martinez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 17691955, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 17691955, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 17691955, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 17691955, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 17691955, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 18348415, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 18348415, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 18348415, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 18348415, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 18348415, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 19126748, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 19126748, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 19126748, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 19126748, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 19126748, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev", 
+            "monthlylisteners": 19208724, 
+            "artist": "Regard"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev", 
+            "monthlylisteners": 19208724, 
+            "artist": "Regard"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev", 
+            "monthlylisteners": 19208724, 
+            "artist": "Regard"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev", 
+            "monthlylisteners": 19208724, 
+            "artist": "Regard"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev", 
+            "monthlylisteners": 19208724, 
+            "artist": "Regard"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 20314448, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 20314448, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 20314448, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 20314448, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 20314448, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK", 
+            "monthlylisteners": 20716944, 
+            "artist": "Lil Baby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK", 
+            "monthlylisteners": 20716944, 
+            "artist": "Lil Baby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK", 
+            "monthlylisteners": 20716944, 
+            "artist": "Lil Baby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK", 
+            "monthlylisteners": 20716944, 
+            "artist": "Lil Baby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK", 
+            "monthlylisteners": 20716944, 
+            "artist": "Lil Baby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF", 
+            "monthlylisteners": 20791418, 
+            "artist": "BLACKPINK"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF", 
+            "monthlylisteners": 20791418, 
+            "artist": "BLACKPINK"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF", 
+            "monthlylisteners": 20791418, 
+            "artist": "BLACKPINK"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF", 
+            "monthlylisteners": 20791418, 
+            "artist": "BLACKPINK"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF", 
+            "monthlylisteners": 20791418, 
+            "artist": "BLACKPINK"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 20796774, 
+            "artist": "Topic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 20796774, 
+            "artist": "Topic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 20796774, 
+            "artist": "Topic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 20796774, 
+            "artist": "Topic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 20796774, 
+            "artist": "Topic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 21346952, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 21346952, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 21346952, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 21346952, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 21346952, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u", 
+            "monthlylisteners": 21781521, 
+            "artist": "Surfaces"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u", 
+            "monthlylisteners": 21781521, 
+            "artist": "Surfaces"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u", 
+            "monthlylisteners": 21781521, 
+            "artist": "Surfaces"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u", 
+            "monthlylisteners": 21781521, 
+            "artist": "Surfaces"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u", 
+            "monthlylisteners": 21781521, 
+            "artist": "Surfaces"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 24005019, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 24005019, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 24005019, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 24005019, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 24005019, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25519292, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25519292, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25519292, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25519292, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25519292, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 28291052, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 28291052, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 28291052, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 28291052, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 28291052, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn", 
+            "monthlylisteners": 28470608, 
+            "artist": "Powfu"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn", 
+            "monthlylisteners": 28470608, 
+            "artist": "Powfu"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn", 
+            "monthlylisteners": 28470608, 
+            "artist": "Powfu"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn", 
+            "monthlylisteners": 28470608, 
+            "artist": "Powfu"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn", 
+            "monthlylisteners": 28470608, 
+            "artist": "Powfu"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB", 
+            "monthlylisteners": 29070517, 
+            "artist": "beabadoobee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB", 
+            "monthlylisteners": 29070517, 
+            "artist": "beabadoobee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB", 
+            "monthlylisteners": 29070517, 
+            "artist": "beabadoobee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB", 
+            "monthlylisteners": 29070517, 
+            "artist": "beabadoobee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB", 
+            "monthlylisteners": 29070517, 
+            "artist": "beabadoobee"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 30088893, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 30088893, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 30088893, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 30088893, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 30088893, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 32005627, 
+            "artist": "Ava Max"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 32005627, 
+            "artist": "Ava Max"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 32005627, 
+            "artist": "Ava Max"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 32005627, 
+            "artist": "Ava Max"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 32005627, 
+            "artist": "Ava Max"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 32733990, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 32733990, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 32733990, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 32733990, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 32733990, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 33706306, 
+            "artist": "Imanbek"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 33706306, 
+            "artist": "Imanbek"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 33706306, 
+            "artist": "Imanbek"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 33706306, 
+            "artist": "Imanbek"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 33706306, 
+            "artist": "Imanbek"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 35355436, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 35355436, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 35355436, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 35355436, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 35355436, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5", 
+            "monthlylisteners": 36007127, 
+            "artist": "Doja Cat"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5", 
+            "monthlylisteners": 36007127, 
+            "artist": "Doja Cat"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5", 
+            "monthlylisteners": 36007127, 
+            "artist": "Doja Cat"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5", 
+            "monthlylisteners": 36007127, 
+            "artist": "Doja Cat"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5", 
+            "monthlylisteners": 36007127, 
+            "artist": "Doja Cat"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 36863830, 
+            "artist": "SAINt JHN"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 36863830, 
+            "artist": "SAINt JHN"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 36863830, 
+            "artist": "SAINt JHN"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 36863830, 
+            "artist": "SAINt JHN"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 36863830, 
+            "artist": "SAINt JHN"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 36889347, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 36889347, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 36889347, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 36889347, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 36889347, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 38873001, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 38873001, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 38873001, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 38873001, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 38873001, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 39708341, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 39708341, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 39708341, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 39708341, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 39708341, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 40715461, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 40715461, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 40715461, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 40715461, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 40715461, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 41587965, 
+            "artist": "Marshmello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 41587965, 
+            "artist": "Marshmello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 41587965, 
+            "artist": "Marshmello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 41587965, 
+            "artist": "Marshmello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 41587965, 
+            "artist": "Marshmello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 42751236, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 43204517, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
+            "monthlylisteners": 45165511, 
+            "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
+            "monthlylisteners": 45165511, 
+            "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
+            "monthlylisteners": 45165511, 
+            "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
+            "monthlylisteners": 45165511, 
+            "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
+            "monthlylisteners": 45165511, 
+            "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms", 
+            "monthlylisteners": 53969857, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms", 
+            "monthlylisteners": 53969857, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms", 
+            "monthlylisteners": 53969857, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms", 
+            "monthlylisteners": 53969857, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms", 
+            "monthlylisteners": 53969857, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "monthlylisteners": 55942332, 
+            "artist": "Dua Lipa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "monthlylisteners": 55942332, 
+            "artist": "Dua Lipa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "monthlylisteners": 55942332, 
+            "artist": "Dua Lipa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "monthlylisteners": 55942332, 
+            "artist": "Dua Lipa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "monthlylisteners": 55942332, 
+            "artist": "Dua Lipa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s", 
+            "monthlylisteners": 57305393, 
+            "artist": "Justin Bieber"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR", 
+            "monthlylisteners": 57926281, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4", 
+            "monthlylisteners": 58852234, 
+            "artist": "Drake"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4", 
+            "monthlylisteners": 58852234, 
+            "artist": "Drake"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4", 
+            "monthlylisteners": 58852234, 
+            "artist": "Drake"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4", 
+            "monthlylisteners": 58852234, 
+            "artist": "Drake"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4", 
+            "monthlylisteners": 58852234, 
+            "artist": "Drake"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
+            "monthlylisteners": 60534591, 
+            "artist": "The Weeknd"
+        }
+    ]
+}

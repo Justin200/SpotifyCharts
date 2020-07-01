@@ -41,13 +41,10 @@ def sortJSON():
         data = json.load(f)
         temp = data['artists']
         temp.sort(key=operator.itemgetter('monthlylisteners'))
-        #sortedJSON is a string
-        sortedJSON = json.dumps(data, f, indent=4)
-        #print(sortedJSON)
         
     with open("sorted.json", "w") as sortedJsonFile:
         #dumping a string
-        json.dump(sortedJSON, sortedJsonFile)
+        json.dump(data, sortedJsonFile, indent=4)
 
 #go through each artist and extract monthly listeners
 for link in combinedLinks:
