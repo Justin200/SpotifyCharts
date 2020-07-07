@@ -13,15 +13,14 @@ r = requests.get(url)
 r2 = requests.get(url2)
 r3 = requests.get(url3)
 r4 = requests.get(url4)
-soup = BeautifulSoup(r.content)
-soup2 = BeautifulSoup(r2.content)
-soup3 = BeautifulSoup(r3.content)
-soup4 = BeautifulSoup(r4.content)
+soup = BeautifulSoup(r.content, features="html.parser")
+soup2 = BeautifulSoup(r2.content, features="html.parser")
+soup3 = BeautifulSoup(r3.content, features="html.parser")
+soup4 = BeautifulSoup(r4.content, features="html.parser")
 link1 = soup.find_all("a")
 link2 = soup2.find_all("a")
 link3 = soup3.find_all("a")
 link4 = soup4.find_all("a")
-print(link4)
 combinedLinks = link1 
 #+ link2 + link3 + link4
 
@@ -30,11 +29,19 @@ def addArtistToJSON(data, filename = 'listeners.json'):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)
 
-#remove duplicates in a JSON file
+#remove duplicate artists from sorted JSON file
+#Works for removing dupliactes, but now its not sorted
+#Also need to fix formatting
 def removeDuplicates():
-    ds = json.load('listeners.json') #this contains the json
-    unique_stuff = { each['artist'] : each for each in ds }.values()
-
+    with open('sorted.json') as f:
+        data = json.load(f)
+        temp = data['artists']
+        unique_stuff = { each['artist'] : each for each in temp }.values()
+        
+    with open("uniqueArtists.json", "w") as uniqueFile:
+        #dumping a string
+        json.dump(unique_stuff, uniqueFile, indent=4)  
+    
 #sort the JSON data by monthlylistener key
 def sortJSON():
     with open('listeners.json') as f:
@@ -53,7 +60,7 @@ for link in combinedLinks:
         artistPath = link.get("href")
         artistURL = "https://open.spotify.com" + artistPath 
         artistData = requests.get(artistURL)
-        soupArtist = BeautifulSoup(artistData.content)
+        soupArtist = BeautifulSoup(artistData.content, features="html.parser")
         artistLine = soupArtist(text=re.compile('monthly_listeners'))
         artistJSON = json.loads(re.search(r"\{\"external\_urls\"\:.*", artistLine[0]).group()[:-1])
         artistMonthlyListeners = artistJSON['insights']['monthly_listeners']
@@ -66,5 +73,5 @@ for link in combinedLinks:
             temp.append(artistProfileJSON)
         addArtistToJSON(data)
         
-# removeDuplicates()
 sortJSON()
+removeDuplicates()
