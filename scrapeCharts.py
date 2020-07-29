@@ -1,28 +1,33 @@
+#coding: utf-8
 import json
 import operator
 import re
 import requests
 from bs4 import BeautifulSoup
 
-
-url4 = "https://open.spotify.com/playlist/2YRe7HRKNRvXdJBp9nXFza"
-url2 = "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva"
-url3 = "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
-url = "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+url5 =  "https://open.spotify.com/playlist/4fC7lFCZnFOa4UaZ6MeJaZ?si=UUhJCwU5TPyYPi-jkThXjA" #my custom playlist
+url4 = "https://open.spotify.com/playlist/2YRe7HRKNRvXdJBp9nXFza" #Spotify most played all time
+url2 = "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva" #Viva Latino
+url3 = "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd" #Rap Caviar
+url = "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" #Today's Top Hits
 r = requests.get(url)
 r2 = requests.get(url2)
 r3 = requests.get(url3)
 r4 = requests.get(url4)
+r5 = requests.get(url5)
 soup = BeautifulSoup(r.content, features="html.parser")
 soup2 = BeautifulSoup(r2.content, features="html.parser")
 soup3 = BeautifulSoup(r3.content, features="html.parser")
 soup4 = BeautifulSoup(r4.content, features="html.parser")
+soup5 = BeautifulSoup(r5.content, features="html.parser")
 link1 = soup.find_all("a")
 link2 = soup2.find_all("a")
 link3 = soup3.find_all("a")
 link4 = soup4.find_all("a")
-combinedLinks = link1 
-#+ link2 + link3 + link4
+link5 = soup5.find_all("a")
+combinedLinks = link4 
+# print(link4)
+#link2 + link3 + link1 + link5
 
 #function that opens listener.json and puts in artist data
 def addArtistToJSON(data, filename = 'listeners.json'):
@@ -34,13 +39,17 @@ def addArtistToJSON(data, filename = 'listeners.json'):
 #Also need to fix formatting
 def removeDuplicates():
     with open('sorted.json') as f:
+        print("running duplicates")
         data = json.load(f)
         temp = data['artists']
         unique_stuff = { each['artist'] : each for each in temp }.values()
+        final_stuff = {"artists": unique_stuff} 
         
     with open("uniqueArtists.json", "w") as uniqueFile:
         #dumping a string
-        json.dump(unique_stuff, uniqueFile, indent=4)  
+        print("opend file")
+        json.dump(final_stuff, uniqueFile, indent=4)  
+        print("dumped file")
     
 #sort the JSON data by monthlylistener key
 def sortJSON():
