@@ -38,8 +38,7 @@ def addArtistToJSON(data, filename = 'listeners.json'):
 #Works for removing dupliactes, but now its not sorted
 #Also need to fix formatting
 def removeDuplicates():
-    with open('sorted.json') as f:
-        print("running duplicates")
+    with open('listeners.json') as f:
         data = json.load(f)
         temp = data['artists']
         unique_stuff = { each['artist'] : each for each in temp }.values()
@@ -47,13 +46,11 @@ def removeDuplicates():
         
     with open("uniqueArtists.json", "w") as uniqueFile:
         #dumping a string
-        print("opend file")
         json.dump(final_stuff, uniqueFile, indent=4)  
-        print("dumped file")
     
 #sort the JSON data by monthlylistener key
 def sortJSON():
-    with open('listeners.json') as f:
+    with open('uniqueArtists.json') as f:
         data = json.load(f)
         temp = data['artists']
         temp.sort(key=operator.itemgetter('monthlylisteners'))
@@ -81,6 +78,6 @@ for link in combinedLinks:
             artistProfileJSON = {"artist": artistName, "monthlylisteners": artistMonthlyListeners, "url": artistURL}
             temp.append(artistProfileJSON)
         addArtistToJSON(data)
-        
+
+removeDuplicates()     
 sortJSON()
-removeDuplicates()
